@@ -1,6 +1,6 @@
 const Apify = require('apify');
 
-process.env.API_KEY = '3c7beec8-846d-4377-be03-71cae6145fdc';
+process.env.API_KEY = 'apify_api_SiACrX8cL4MsA6VZowQhvepzKiYXxV2HtULv';
 
 const general = require('./tools/general');
 
